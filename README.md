@@ -11,7 +11,7 @@
 ### generate models and world from maps
 
 ``` bash
-python3 tomap.py [src_map_folder] [dst_model_folder] [dst_world_folder]
+python3 map2world.py [src_map_folder] [dst_model_folder] [dst_world_folder]
 ```
 
 ## surpported declarement（currently）
